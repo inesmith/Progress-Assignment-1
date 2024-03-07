@@ -1,0 +1,27 @@
+.App {
+    width: 1000px;
+
+}
+
+.Bar {
+    margin-top: 60px;
+    margin-left: 400px;
+}
+
+.Pie {
+    margin-top: 100px;
+    margin-left: 400px;
+}
+
+.Line {
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-bottom: 60px;
+}
+
+.Doughnut {
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-bottom: 60px;
+}
+

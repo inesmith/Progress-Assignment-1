@@ -1,0 +1,57 @@
+
+
+.Nav {
+  text-align: left;
+  background-color: darkgrey;
+  margin-top: -20px;
+  height: 80px;
+}
+
+ul {
+  list-style-type: none;
+  font-family: sans-serif;
+  font-size: medium;
+  color: brown;
+  text-decoration-color: brown;
+  list-style-type: none;
+}
+
+li {
+  color: brown;
+}
+
+.Home {
+  float: left;
+  margin-top: -40px;
+  margin-left: 200px;
+}
+
+.About {
+  float: left;
+  margin-top: -40px;
+  margin-left: 300px;
+}
+
+.Tickets{
+  float: left;
+ margin-top: -40px;
+ margin-left: 400px;
+}
+
+.Logo{
+  width: 50px;
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+h1{
+  float: left;
+  margin-left: 270px;
+  color: brown;
+}
+
+p{
+  float: left;
+  margin-left: 50px;
+  color: brown;
+}
